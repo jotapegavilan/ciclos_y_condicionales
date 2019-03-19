@@ -1,0 +1,7 @@
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\bin\Debug\csharp_condiciones_ciclos.exe.config
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\bin\Debug\csharp_condiciones_ciclos.exe
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\bin\Debug\csharp_condiciones_ciclos.pdb
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\obj\Debug\csharp_condiciones_ciclos.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\obj\Debug\csharp_condiciones_ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\obj\Debug\csharp_condiciones_ciclos.exe
+C:\Users\Juan Pablo\source\repos\csharp_condiciones_ciclos\csharp_condiciones_ciclos\obj\Debug\csharp_condiciones_ciclos.pdb
